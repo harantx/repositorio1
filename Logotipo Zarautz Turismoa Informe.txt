@@ -2,15 +2,15 @@ Informe del paquete
 
 -----------------------------------------------------------------------------
 Documento:
-Nombre: Logotipo Zarautz Turismoa.ai
+Nombre: Concurso Logotipo Zarautz Turismoa.ai
 Modo de color: Color CMYK
 Perfil de color: ninguno
-Unidades de regla: mil’metros
+Unidades de regla: milâ€™metros
 Dimensiones de la mesa de trabajo: 297 mm x 210 mm
-Mostrar im‡genes en modo contorno: Desactivado
+Mostrar imâ€¡genes en modo contorno: Desactivado
 Resaltar fuentes sustituidas: Desactivado
 Resaltar glifos sustituidos: Desactivado
-Conservar capacidad de edici—n de texto
+Conservar capacidad de ediciâ€”n de texto
 Simular papel de color: Desactivado
 
 -----------------------------------------------------------------------------
@@ -36,66 +36,66 @@ Enlaces no disponibles:
 Ninguno
 
 -----------------------------------------------------------------------------
-Im‡genes enlazadas:
+Imâ€¡genes enlazadas:
 
 /Usuarios/aranhuegun/Escritorio/Captura de Pantalla 2022-06-08 a las 20.44.48
 Tipo: CMYK transparente
-Bits por p’xel: 40
+Bits por pâ€™xel: 40
 Canales: 5
-Tama–o: 2874K, 1258 por 468 p’xeles
+Tamaâ€“o: 2874K, 1258 por 468 pâ€™xeles
 Dimensiones: 629 por 234 puntos 
-Resoluci—n: 144 por 144 p’xeles por pulgada
+Resoluciâ€”n: 144 por 144 pâ€™xeles por pulgada
 
 
 /Usuarios/aranhuegun/Escritorio/Captura de Pantalla 2022-06-08 a las 20.41.35
 Tipo: CMYK transparente
-Bits por p’xel: 40
+Bits por pâ€™xel: 40
 Canales: 5
-Tama–o: 2370K, 1074 por 452 p’xeles
+Tamaâ€“o: 2370K, 1074 por 452 pâ€™xeles
 Dimensiones: 315,126 por 132,623 puntos 
-Resoluci—n: 245,387 por 245,387 p’xeles por pulgada
+Resoluciâ€”n: 245,387 por 245,387 pâ€™xeles por pulgada
 
 
 /Usuarios/aranhuegun/Escritorio/Captura de Pantalla 2022-06-08 a las 20.39.48
 Tipo: CMYK transparente
-Bits por p’xel: 40
+Bits por pâ€™xel: 40
 Canales: 5
-Tama–o: 8230K, 1096 por 1538 p’xeles
+Tamaâ€“o: 8230K, 1096 por 1538 pâ€™xeles
 Dimensiones: 215,158 por 301,928 puntos 
-Resoluci—n: 366,763 por 366,763 p’xeles por pulgada
+Resoluciâ€”n: 366,763 por 366,763 pâ€™xeles por pulgada
 
 
 /Usuarios/aranhuegun/Descargas/Playa Zarautz.jpeg
 Tipo: RGB
-Bits por p’xel: 24
+Bits por pâ€™xel: 24
 Canales: 3
-Tama–o: 2085K, 1090 por 653 p’xeles
+Tamaâ€“o: 2085K, 1090 por 653 pâ€™xeles
 Dimensiones: 817,5 por 489,75 puntos 
-Resoluci—n: 96 por 96 p’xeles por pulgada
+Resoluciâ€”n: 96 por 96 pâ€™xeles por pulgada
 
 
 /Usuarios/aranhuegun/Descargas/Escultura Zarautz 2.jpeg
 Tipo: RGB
-Bits por p’xel: 24
+Bits por pâ€™xel: 24
 Canales: 3
-Tama–o: 1272K, 800 por 543 p’xeles
+Tamaâ€“o: 1272K, 800 por 543 pâ€™xeles
 Dimensiones: 192 por 130,32 puntos 
-Resoluci—n: 300 por 300 p’xeles por pulgada
+Resoluciâ€”n: 300 por 300 pâ€™xeles por pulgada
 
 
 /Usuarios/aranhuegun/Descargas/Escultura Zarautz.webp
 Tipo: RGB
-Bits por p’xel: 24
+Bits por pâ€™xel: 24
 Canales: 3
-Tama–o: 486K, 499 por 333 p’xeles
+Tamaâ€“o: 486K, 499 por 333 pâ€™xeles
 Dimensiones: 499 por 333 puntos 
-Resoluci—n: 72 por 72 p’xeles por pulgada
+Resoluciâ€”n: 72 por 72 pâ€™xeles por pulgada
 
 
 /Usuarios/aranhuegun/Descargas/Escudo Zarautz.jpeg
 Tipo: RGB
-Bits por p’xel: 24
+Bits por pâ€™xel: 24
 Canales: 3
-Tama–o: 2558K, 768 por 1137 p’xeles
+Tamaâ€“o: 2558K, 768 por 1137 pâ€™xeles
 Dimensiones: 768 por 1137 puntos 
-Resoluci—n: 72 por 72 p’xeles por pulgada
+Resoluciâ€”n: 72 por 72 pâ€™xeles por pulgada
